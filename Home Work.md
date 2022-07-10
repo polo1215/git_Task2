@@ -54,4 +54,7 @@
 
 [Ссылка на документ](Readme.txt)
 
+[Ссылка на документацию по Python](https://pythonworld.ru/)
+
+
 
