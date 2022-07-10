@@ -56,5 +56,6 @@
 
 [Ссылка на документацию по Python](https://pythonworld.ru/)
 
+[Сссылка на картинку о дайвинге](https://www.scubadiving-phuket.com/wp-content/uploads/2014/09/Whale-Shark-scuba-diving-phuket-liveaboard-similan-BG-1600x650.jpg)
 
 
