@@ -69,3 +69,4 @@ N#|Passenger Name|Passenger Surname|Sex|Survived|ecity of embarking
 3|John|Abrams|M|No|Southampton
 4|Catrin|Abrams|F|No|Queenstown
 5|Colin|Strong|M|No|Queenstown
+6|Sam|King|M|Yes|Queenstown
