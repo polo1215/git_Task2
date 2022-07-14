@@ -62,10 +62,10 @@
 
 (Обязательны под заголовком таблицы строчка с черточками - структура таблицы)
 
-N#|Passenger Name|Passenger Surname|Sex
--|----|----|----|
-1|Adam|Smith|M
-2|Helen|Smith|F
-3|John|Abrams|M
-4|Catrin|Abrams|F
-5|Colin|Strong|M
+N#|Passenger Name|Passenger Surname|Sex|Survived
+-|----|----|----|---
+1|Adam|Smith|M|Yes
+2|Helen|Smith|F|Yes
+3|John|Abrams|M|No
+4|Catrin|Abrams|F|No
+5|Colin|Strong|M|No
