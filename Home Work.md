@@ -69,3 +69,5 @@ N#|Passenger Name|Passenger Surname|Sex|Survived|Class
 3|John|Abrams|M|No|2
 4|Catrin|Abrams|F|No|3
 5|Colin|Strong|M|No|3
+6|Michle|Carry|M|Yes|2
+7|Marry|Popins|F|Yes|1
