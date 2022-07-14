@@ -59,3 +59,14 @@
 [Сссылка на картинку о дайвинге](https://www.scubadiving-phuket.com/wp-content/uploads/2014/09/Whale-Shark-scuba-diving-phuket-liveaboard-similan-BG-1600x650.jpg)
 
 # Давайте создадим таблицу
+# Cоздадим таблицу выживших на Титанике
+
+(Обязательны под заголовком таблицы строчка с черточками - структура таблицы)
+
+N#|Passenger Name|Passenger Surname
+-|----|----|
+1|Adam|Smith
+2|Helen|Smith
+3|John|Abrams
+4|Catrin|Abrams
+5|Colin|Strong
