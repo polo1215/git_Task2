@@ -71,4 +71,5 @@ N#|Passenger Name|Passenger Surname|Sex|Survived|Class|Ticket Price
 5|Colin|Strong|M|No|3|38
 6|Michle|Carry|M|Yes|2
 7|Marry|Popins|F|Yes|1
+8|Peter|Hunter|M|Yes|1|82
 
