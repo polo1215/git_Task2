@@ -75,3 +75,6 @@ N#|Passenger Name|Passenger Surname|Sex|Survived|Class|Ticket Price|City of emba
 8|Peter|Hunter|M|Yes|1|82|
 9|Sam|King|M|Yes|||Queenstown
 
+* [ ] Задача-1
+* [х] Задача-2
+* [ ] Задача-3
